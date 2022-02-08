@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(100, 17, 17);
+}
+
+.container {
+    margin-top: 5em;
+}
+
+body>div div {
+    margin: 0 auto;
+    background-color: white;
+    width: 75%;
+    /* padding: 1em; */
+    /* box-sizing: border-box; */
+}
+
+.section p {
+    padding: 1.5em;
+}
+
+.section h1 {
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+}
+
+.second {
+    font-size: 0;
+}
+
+.section div {
+    display: inline-block;
+    width: 50%;
+    font-size: 1rem;
+
+}
